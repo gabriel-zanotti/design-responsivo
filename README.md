@@ -8,3 +8,5 @@ Projeto focado em desenvolver o design resposivo, compatível tanto com Desktop 
   <li>HTML5</li>
   <li>CSS3</li>
 </ul>
+
+Clique <a href="https://site-responsivo-gabrielzanotti.netlify.app/">aqui</a> para visualizar o projeto.
